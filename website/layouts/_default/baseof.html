@@ -4,12 +4,6 @@
     <body class="{{ urlize .Type }} page-{{ .Kind }}">
         {{- partial "accessibility.html" . -}}
         {{- partial "header.html" . -}}
-        <div class="preview">
-                <blockquote>
-                    <p>Please note this site is currently under development!</p>
-                </blockquote>
-            </div>
-        
         <section id="content" class="container wrap" {{ if .IsPage }}data-pagefind-body{{ end }}>
             {{ if ne .Params.showHeader false }}
                 <header>

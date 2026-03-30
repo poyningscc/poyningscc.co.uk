@@ -2,47 +2,64 @@
 title: "Fees"
 description: "Information all about Poynings Cricket Club fees as a member."
 ---
+> **Membership fees have increased for the 2026 season for the first time since before 2020!**
 
 Below you can find all of the information you need about Poynings Cricket Club fees as a member of the club.
 
-Poynings Cricket Club prides itself on being an inclusive club, welcoming players of all ages and abilities. We aim to keep our fees as low as possible to ensure that cricket is accessible to everyone.
-
-We think that our fees are very reasonable, especially when you consider the cost of playing cricket at other clubs in the county. We also offer flexible payment options to help spread the cost of memberships and fees.
-
-Finally we offer discounts for junior members, or those still in full-time education, to ensure that cricket is accessible to these individuals (excluding those who are in employment alongside their studies, e.g. university students).
-
-> All fees are collected digitally through [Spond](https://www.spond.com/), our club management app. If you are not already a member of Spond, please contact us to be added to the club group. Cash is no longer accepted.
-
 {{< button link="#membership-fees" text="Membership Fees" >}}
-
-{{< button link="#membership-fees-notes" style="secondary" text="Membership Fees Notes" >}}
 
 {{< button link="#match-fees" text="Match Fees" >}}
 
-{{< button link="#match-fees-notes" style="secondary" text="Match Fees Notes" >}}
-
-## Important Notes on Fees
+## Important Notes on All Fees
 
 1. All fees are collected digitally through [Spond](https://www.spond.com/), our club management app. If you are not already a member of Spond, please contact us to be added to the club group. Cash is no longer accepted.
-2. Up-to-date payments of fees and memberships are used in the selection criteria/decisions for players for upcoming matches. This means that if you have not paid your fees or membership, you may not be selected for matches, above those that are up-to-date with their payments.
+2. Flexible payment options are available through Spond. Please contact the management committee if you wish to arrange.
+3. Those out of employment, junior members, or those still in full-time education are eligible for 50% discounted fees. This excludes individuals who are in employment alongside their studies, such as university students.
+    - Those out of employment must notify the [management committee](committee.md) if their circumstances change.
+4. Up-to-date payments of fees and memberships are used in the selection criteria/decisions for players for upcoming matches. This means that if you have not paid your fees or membership, you may not be selected for matches, above those that are up-to-date with their payments.
 
 ## Membership Fees
 
+{{< responsive_table >}}
+
 | Member Type   | Fee |
 | ------------- | --- |
-| Adult Member  | £60 |
-| Junior Member | £30 |
+| Standard Member  | £70 |
+| Premium Member  | £95 |
+| Junior Member or Out of Employment | 50% discount of above |
+
+{{< /responsive_table >}}
+
+### Membership Types Explained
+
+{{< responsive_table >}}
+
+| Item | Standard Member | Premium Member |
+| ---- | --------------- | -------------- |
+| Access to all club facilities | ✅ | ✅ |
+| Voting rights at AGM | ✅ | ✅ |
+| Initial club playing shirt included | ✅ | ✅ |
+| Poynings CC Car Sticker | ✅ | ✅ |
+| 100 club number from May to September | ❌ | ✅ |
+| Access to 100 club bonus draw in September | ❌ | ✅ |
+| Pride in supporting Poynings CC even more 😁 | ❌ | ✅ |
+
+
+{{< /responsive_table >}}
 
 ### Membership Fees Notes
 
+- First rise in Membership fees for 2026 since before 2020!
 - Membership fees are used to cover the cost of running the club, including ground maintenance, equipment, insurances, utilities (e.g. water, electricity), and other club running expenses.
 - Membership fees are sent out, via Spond, in April each year, and are due by the beginning of May.
 - Membership fees can be paid in full or in installments via Spond.
   - For those wishing to pay in installments, please contact the management committee to arrange this.
-- When signing up as a member for the first time, once the membership fee is paid, you will be entitled to a club shirt, which will be provided by the club. This is included in your membership fee.
-  - When you sign up as a member, you will be asked to provide your shirt size and sleeve preference (short/long). This will be checked with you prior to ordering your shirt.
 
 ## Match Fees
+
+> **Match fees remain unchanged for 2026!**
+
+{{< responsive_table >}}
 
 | Match Type                                                      | Member Type   | Fee   |
 | --------------------------------------------------------------- | ------------- | ----- |
@@ -56,6 +73,8 @@ Finally we offer discounts for junior members, or those still in full-time educa
 | 40 Over (League or Friendly) - Abandoned During Play - With Tea | Junior Member | £3    |
 | 40 Over (League or Friendly) - Abandoned During Play - No Tea   | Adult Member  | £4    |
 | 40 Over (League or Friendly) - Abandoned During Play - No Tea   | Junior Member | £2    |
+
+{{< /responsive_table >}}
 
 ### Match Fees Notes
 
