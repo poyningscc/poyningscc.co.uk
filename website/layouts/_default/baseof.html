@@ -1,31 +1,39 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.Lang }}">
-    {{- partial "head.html" . -}}
-    <body class="{{ urlize .Type }} page-{{ .Kind }}">
-        {{- partial "accessibility.html" . -}}
-        {{- partial "header.html" . -}}
-        <section id="content" class="container wrap" {{ if .IsPage }}data-pagefind-body{{ end }}>
-            {{ if ne .Params.showHeader false }}
-                <header>
-                    {{ if and (eq .Kind "page") (ne .Section "") }}
-                    {{- partial "breadcrumb.html" . -}}
-                    {{ end }}
-                    <h1 class="title">{{ .Title }}</h1>
-                </header>
+{{- partial "head.html" . -}}
+
+<body class="{{ urlize .Type }} page-{{ .Kind }}">
+    {{- partial "accessibility.html" . -}}
+    {{- partial "header.html" . -}}
+    <a style="display:none;" class="lsw"
+        href="https://www.play-cricket.com/embed_widget/live_scorer_widgets?club_id=5157&days=0"
+        id="lsw_link_1526534855798"></a>
+    <div class="lsw-col-12 lsw_tile" id="lsw_container_1526534855798"></div>
+    <script
+        type="text/javascript">function loadCSSIfNotAlreadyLoadedForSomeReason() { var ss = document.styleSheets; for (var i = 0, max = ss.length; i < max; i++) { if (ss[i].href == " https://www.play-cricket.com/live_scorer.css") return; } var link = document.createElement("link"); link.rel = "stylesheet"; link.href = " https://www.play-cricket.com/live_scorer.css"; document.getElementsByTagName("head")[0].appendChild(link); } loadCSSIfNotAlreadyLoadedForSomeReason(); !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = " https://www.play-cricket.com/live_scorer.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "lsw-wjs");</script>
+    <section id="content" class="container wrap" {{ if .IsPage }}data-pagefind-body{{ end }}>
+        {{ if ne .Params.showHeader false }}
+        <header>
+            {{ if and (eq .Kind "page") (ne .Section "") }}
+            {{- partial "breadcrumb.html" . -}}
             {{ end }}
-            
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
-            <div class="content">
+            <h1 class="title">{{ .Title }}</h1>
+        </header>
+        {{ end }}
+
+        {{ if or (eq .Kind "section") (eq .Kind "home") }}
+        <div class="content">
             {{ else }}
             <article class="content">
-            {{ end }}
-            {{- block "main" . }}{{ .Content }}{{- end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
-            </div>
-            {{ else }}
-            </article>
-            {{ end }}
-        </section>
-        {{- partial "footer.html" . -}}
-    </body>
+                {{ end }}
+                {{- block "main" . }}{{ .Content }}{{- end }}
+                {{ if or (eq .Kind "section") (eq .Kind "home") }}
+        </div>
+        {{ else }}
+        </article>
+        {{ end }}
+    </section>
+    {{- partial "footer.html" . -}}
+</body>
+
 </html>
