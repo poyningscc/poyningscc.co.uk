@@ -1,6 +1,6 @@
 ---
 title: Poynings CC
-description: This is the home of Poynings Cricket Club.
+description: The home of Poynings Cricket Club.
 showHeader: false
 ---
 {{< columns count=2 >}}
@@ -11,13 +11,13 @@ showHeader: false
 {{< intro >}}
 Poynings Cricket Club is a thriving and developing cricket club in Sussex offering opportunities to everyone!
 
-With 2 Saturday league XIs in the [Dean Wilson Sussex Cricket League](https://sussexcricketleague.play-cricket.com/home) and a midweek T20 side playing in the [Sussex Slam Men's Shield](https://www.slamcricket.co.uk/sussex-men.html).
+With two Saturday league XIs in the [The Sussex Cricket League](https://sussexcricketleague.play-cricket.com/home) and a midweek T20 side playing in the [Sussex Slam](https://www.slamcricket.co.uk/sussex-men.html).
 {{< /intro >}}
 
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/logo-poynings-cc-transparent-black-text.png" loading="eager" >}}
+{{< img src="/img/logo.svg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 

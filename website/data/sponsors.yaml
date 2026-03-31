@@ -1,0 +1,9 @@
+# Sponsors list
+# Each sponsor has the following fields:
+#   name:  Display name shown below the logo and used for the link text
+#   image: Path to the logo image, relative to /static  (e.g. /img/sponsors/acme.png)
+#   url:   Full URL of the sponsor's website
+
+- name: "Rushfields Plant Centre"
+  image: "/img/sponsors/rushfields.png"
+  url: "https://www.rushfields.com/"

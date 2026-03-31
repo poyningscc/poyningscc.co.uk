@@ -4,7 +4,8 @@
 logo_on_white: "/img/logo.svg"
 logo_on_black: "/img/logo.svg"
 custom_js: []
-custom_css: []
+custom_css:
+  - "/css/sponsors.css"
 
 ######################## custom config ####################
 
@@ -21,7 +22,7 @@ social_links:
   facebook: ""
   flickr: ""
   github: "https://github.com/poyningscc/poyningscc.co.uk"
-  instagram: ""
+  instagram: "https://instagram.com/poyningscc"
   landscape: ""
   linkedin: ""
   mastodon: ""
