@@ -52,8 +52,29 @@ Below you can find all of the information you need about Poynings Cricket Club f
 - First rise in Membership fees for 2026 since before 2020!
 - Membership fees are used to cover the cost of running the club, including ground maintenance, equipment, insurances, utilities (e.g. water, electricity), and other club running expenses.
 - Membership fees are sent out, via Spond, in April each year, and are due by the beginning of May.
-- Membership fees can be paid in full or in installments via Spond.
-  - For those wishing to pay in installments, please contact the management committee to arrange this.
+- Membership fees can be paid in full or in installments (monthly etc.) via Spond.
+ 
+### FAQ
+
+#### I need to arrange to pay in installments OR I am out of employment/in full time education and not working - how do I get my membership payment requests adjusted appropriately?
+
+This is super easy for us to set up and arrange, and we had a number of you do this last year with great ease and success. Just either WhatsApp Jack directly or email him on [jack.tracey@poyningscc.co.uk](mailto:jack.tracey@poyningscc.co.uk).
+
+#### What if I am already a 100 club member?
+
+If you are already a 100 club member, you have two choices. You can either select the standard membership on its own and you will not receive an additional 100 club member number. Or you can choose to become a premium member and gain an additional number from the months of May to September to increase your chances of winning in the 100 club for those months and also for the September bonus draw. There is no cost difference between being a 100 club member inside or outside of the club playing membership. We have introduced this premium membership as a way of increasing 100 club participants in hope that you will upgrade to a full 100 club members post the season, finishing.
+
+#### If I become a premium member, how do I chose my new/additional 100 club number?
+
+Upon completing and paying for your premium membership, Jack will be in touch to arrange this and select your number from what is available.
+
+#### Can I become a full 100 club member (all year round) if I chose to to first try it with the premium membership for a season?
+
+Yes, of course you can. To do this, you can just speak to Jack, Tracy, or contact him via [jack.tracey@poyningscc.co.uk](mailto:jack.tracey@poyningscc.co.uk) and this can easily be converted to a full, all year round, 100 club membership.
+
+#### Can I just become a full 100 club member (all year round) anyway, outside of the premium membership?
+
+100% yes. All you need to do is head to [bit.ly/pcc100club](https://bit.ly/pcc100club) and complete the signup process and chose your number. And don't forget anyone can be a 100 club member, so share with your friends, family, and anyone you know!
 
 ## Match Fees
 
